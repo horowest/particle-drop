@@ -1,4 +1,4 @@
-# particle-drop
+# Particle drop
 
 OpenGL app to draw and drop particles.
 
